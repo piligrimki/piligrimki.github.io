@@ -1,13 +1,14 @@
 
 body
 {
-background-image: url("Images/100_4678.JPG");
+background-image: url("images/100_4678.jpg");
 background-size: 100%;
 font: normal bolder 12pt "Times New Roman", Serif;
 border-color: black;
 background-attachment: fixed;
 
 }
+
 
 td a
 {
@@ -18,6 +19,9 @@ border-radius: 13px;
 font-weight: 700;
 overflow: auto;
 }
+
+
+
 
 a 
 {
@@ -46,6 +50,37 @@ border-style: inset;
 font-family: "Times New Roman", Georgia, Serif;
 color: #191970;
 }
+
+a.lest
+{
+font: normal bolder 12pt "Times New Roman", Serif;
+background-color: inherit;
+text-decoration: underline;
+padding: none;
+color: #e51537;
+}
+
+a.lest:hover
+{
+font: normal bolder 12pt "Times New Roman", Serif;
+background-color: inherit;
+text-decoration: underline;
+padding: none;
+color: #f59c3d;
+border: none;
+}
+
+
+a.lest:active
+{
+font: normal bolder 12pt "Times New Roman", Serif;
+background-color: inherit;
+text-decoration: underline;
+padding: none;
+color: #b53df5;
+border: none;
+}
+
 
 h2
 {
@@ -171,9 +206,13 @@ min-height: auto;
 position: fixed;
 bottom: 0%;
 text-align: right;
-margin-left: -12pt;
+margin-left: -17pt;
 padding-left: 10pt;
 }
+
+
+
+
 
 
 
