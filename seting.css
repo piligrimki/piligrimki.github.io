@@ -1,13 +1,5 @@
 
-body
-{
-background-image: url("images/100_4678.jpg");
-background-size: 100%;
-font: normal bolder 12pt "Times New Roman", Serif;
-border-color: black;
-background-attachment: fixed;
 
-}
 
 
 td a
@@ -79,6 +71,16 @@ text-decoration: underline;
 padding: none;
 color: #b53df5;
 border: none;
+}
+
+body
+{
+background-image: url("images/100_4678.jpg");
+background-size: 100%;
+font: normal bolder 12pt "Times New Roman", Serif;
+border-color: black;
+background-attachment: fixed;
+
 }
 
 
