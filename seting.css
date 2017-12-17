@@ -1,4 +1,12 @@
+body
+{
+background-image: url("images/100_4678.jpg");
+background-size: 100%;
+font: normal bolder 12pt "Times New Roman", Serif;
+border-color: black;
+background-attachment: fixed;
 
+}
 
 
 
@@ -204,15 +212,7 @@ margin-left: -17pt;
 padding-left: 10pt;
 }
 
-body
-{
-background-image: url("images/100_4678.jpg");
-background-size: 100%;
-font: normal bolder 12pt "Times New Roman", Serif;
-border-color: black;
-background-attachment: fixed;
 
-}
 
 
 
